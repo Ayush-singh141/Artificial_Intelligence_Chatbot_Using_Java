@@ -30,7 +30,7 @@ public class ChatBot{
 
     public static String chatbot(String message) {
         String url = "https://api.groq.com/openai/v1/chat/completions";
-        String apiKey = "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"; // API key goes here
+        String apiKey = ""; // API key goes here
         String model = "llama3-8b-8192"; 
 
         try {
