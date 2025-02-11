@@ -16,7 +16,7 @@ This is a simple terminal-based AI chatbot developed in Java, utilizing the **Gr
 ## Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repository-url/chatbot-java.git
+   git clone [https://github.com/your-repository-url/chatbot-java.git](https://github.com/Ayush-singh141/Artificial_Intelligence_Chatbot_Using_Java.git)
    cd chatbot-java
    ```
    *(Replace with your actual repository URL if applicable.)*
